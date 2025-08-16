@@ -56,7 +56,7 @@ header .navigation a{
 }
 
 header .navigation a:hover{
-    color: #B6EAFA;
+    color: #FFB0B0;
 }
 
 header .sticky .navigation a:hover{
@@ -102,7 +102,7 @@ section{
 }
 
 .animated-text h3{
-    color: #8cd5eb;
+    color: #FFB0B0;
     font-size: 3em;
     font-weight: 700;
     line-height: 70px;
@@ -137,7 +137,7 @@ section{
 
 .btn{
     color: white;
-    background-color: #B6EAFA;
+    background-color: #FFB0B0;
     font-size: 1em;
     font-weight: 600;
     display: inline-block;
@@ -151,7 +151,7 @@ section{
 }
 
 .btn:hover{
-    background-color: #B6EAFA;
+    background-color: #FFB0B0;
 }
 
 .media-icons{
@@ -177,7 +177,7 @@ section{
 
 .section-title{
     position: relative;
-    color: #B6EAFA;
+    color: #FFB0B0;
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 60px;
@@ -190,7 +190,7 @@ section{
     left: 50%;
     width: 140px;
     height: 4px;
-    background-color: #B6EAFA;
+    background-color: #FFB0B0;
     transform: translateX(-50%);
 }
 
@@ -202,7 +202,7 @@ section{
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background-color: #B6EAFA;
+    background-color: #FFB0B0;
     transform: translateX(-50%);
 }
 
@@ -282,7 +282,7 @@ section{
   }
   
   .contact .content .row .card .contact-icon{
-    color: #B6EAFA;
+    color: #FFB0B0;
     font-size: 4em;
     text-align: center;
     transition: transform 0.5s ease;
@@ -346,7 +346,7 @@ section{
   
   .contact-form .input-box .send-btn{
     color: #fff;
-    background: #B6EAFA;
+    background: #FFB0B0;
     display: inline-block;
     font-size: 1.1em;
     font-weight: 500;
@@ -359,7 +359,7 @@ section{
   }
   
   .contact-form .input-box .send-btn:hover{
-    background: #B6EAFA;
+    background: #FFB0B0;
   }
 
   /* Footer */
@@ -382,7 +382,7 @@ section{
   }
   
   .footer p a{
-    color: #B6EAFA;
+    color: #FFB0B0;
     font-weight: 600;
     text-decoration: none;
   }
@@ -428,7 +428,7 @@ section{
     }
 
     header .navigation a:hover{
-        background-color: #B6EAFA;
+        background-color: #FFB0B0;
         color: white;
         transition: 0.3s ease;
     }
@@ -526,5 +526,6 @@ body {
             text-decoration: none;
             font-weight: bold;
         }
+
 
 
